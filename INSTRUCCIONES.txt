@@ -1,0 +1,3 @@
+- El proyecto fue desplegado en un servidor Tomcat v9.0
+- Los .war desplegables se encuentran dentro de la carpeta target ubicada dentro de cada proyecto
+- La url para acceder al ejemplo web es: {{HOST}}/ConsultaLista/
