@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ConsultaListaRestService
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Usuario
+Implementation-Vendor-Id: cl.azurian.consultalista
+Build-Jdk: 1.8.0_45
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ConsultaListaRestService
+Created-By: Maven Integration for Eclipse
+
