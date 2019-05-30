@@ -1,6 +1,7 @@
 HELP.md
 !.mvn/wrapper/maven-wrapper.jar
-
+/target/ConsultaListaRestService-0.0.1-SNAPSHOT
+/target/ConsultaListaRestService-0.0.1-SNAPSHOT.war.original
 ### STS ###
 .apt_generated
 .classpath
