@@ -1,5 +1,7 @@
 - El desarrollo está integrado con una base de ados MySql.
 - El esquema de base de datos se debe llamar: azurian
+- usuario: root
+- Password: Admin1234*
 
 - Script de creación de tabla:
 CREATE TABLE `azurian`.`nombres` (
